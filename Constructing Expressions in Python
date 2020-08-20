@@ -1,9 +1,0 @@
-my_list = [1,2,3,4]
-
-my_list[2] = 'C'
-print(my_list)
-
-# 
-
-my_second_list = [1,2.01,'123',[5,6,7]]
-print(my_second_list)
