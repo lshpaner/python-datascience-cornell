@@ -1,5 +1,5 @@
 """
-Creating Lists and Assigning Them to Variables
+Creating Lists and Assigning Them to Variables in Python
 Author: Leon Shpaner
 Date:   July 12, 2020
 """
