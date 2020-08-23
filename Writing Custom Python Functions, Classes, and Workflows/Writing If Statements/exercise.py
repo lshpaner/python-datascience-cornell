@@ -2,7 +2,7 @@
 Writing If Statements
 Author: Leon Shpaner
 Date:   August 9, 2020
-
+"""
 
 def find_min(a,b):
     """
