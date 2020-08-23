@@ -4,9 +4,11 @@ Author: Leon Shpaner
 Date:   July 18, 2020
 
 Append the number 4 to alist using the list.append() method.
-Remove the first instance of the number 2 from alist using the list.remove() method.
+Remove the first instance of the number 2 from alist using the list.remove() 
+method.
 Use the list.index() method to find the position of the element 3 in alist.
-Now try appending the number 4 to aset. Note that this produces an error, which you will be quizzed about.
+Now try appending the number 4 to aset. Note that this produces an error, 
+which you will be quizzed about.
 
 """
 
