@@ -1,5 +1,5 @@
 """
-Default Arguments
+Write and Call Some Simple Functions
 Author: Leon Shpaner
 Date:   August 7, 2020
 
