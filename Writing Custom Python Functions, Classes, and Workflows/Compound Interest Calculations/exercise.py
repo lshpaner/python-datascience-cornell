@@ -79,9 +79,9 @@ def change_per_period(Amounts):
 
 # With your function compound_by_period in hand, we can apply it to a very 
 # different problem in compound interest: the wheat on a chessboard problem. 
-# First read [url](https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem/) if you
-# are unfamiliar with the story. In this problem, the initial investment of 1 
-# grain of wheat is compounded for each square on the chessboard, leading to a 
+# First read (https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem/) if 
+# you are unfamiliar with the story. In this problem, the initial investment of 
+# 1 grain of wheat is compounded for each square on the chessboard, leading to a 
 # staggering amount of wheat by the time the chessboard is filled. Your function 
 # compound_by_period is just what we need to compute how much wheat will 
 # actually end up on the chessboard.
