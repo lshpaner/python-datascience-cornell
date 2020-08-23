@@ -2,6 +2,7 @@
 Creating Lists and Assigning Them to Variables
 Author: Leon Shpaner
 Date:   July 19, 2020
+
 In exercise2.py in the code editor window, create the set of numbers my_set = 
 {40, 20, 30, 10}, and write an expression computing its average value using a 
 similar expression as the one you previously wrote, storing the result in the 
