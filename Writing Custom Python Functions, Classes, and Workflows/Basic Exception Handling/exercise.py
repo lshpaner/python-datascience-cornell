@@ -1,5 +1,5 @@
 """
-Creating Strings, Assigning to Variables, and Doing Simple Operations
+Basic Exception Handling
 Author: Leon Shpaner
 Date:   August 9, 2020
 
