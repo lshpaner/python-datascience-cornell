@@ -1,5 +1,5 @@
 """
-Creating Strings, Assigning to Variables, and Doing Simple Operations
+Investigating Built-in Functions and Methods for Container Data Types
 Author: Leon Shpaner
 Date:   July 18, 2020
 
