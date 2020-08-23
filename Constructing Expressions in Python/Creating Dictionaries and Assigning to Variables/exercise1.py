@@ -1,5 +1,5 @@
 """
-Creating Lists and Assigning Them to Variables in Python
+Creating Dictionaries and Assigning to Variables
 Author: Leon Shpaner
 Date:   July 16, 2020
 

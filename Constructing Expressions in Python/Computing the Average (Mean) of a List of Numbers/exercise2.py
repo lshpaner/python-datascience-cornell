@@ -1,5 +1,5 @@
 """
-Creating Lists and Assigning Them to Variables
+Computing the Average (Mean) of a List of Numbers
 Author: Leon Shpaner
 Date:   July 19, 2020
 
