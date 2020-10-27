@@ -48,9 +48,6 @@ This cell is worth 20% of the grade for this assignment. <i>Note: a self-check w
 Your plot should look like this: 
 <br>
 
-
-
-
 ```python
 plt.plot(wheat)
 plt.xlabel("square on chessboard")
@@ -61,8 +58,6 @@ plt.ylabel("number of grains on square")
 
 
     Text(0, 0.5, 'number of grains on square')
-
-
 
 
 ![png](output_6_1.png)
