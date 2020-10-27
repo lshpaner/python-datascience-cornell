@@ -117,7 +117,7 @@ In the code cell below, make a call to ```df.plot``` that plots the ```Snow Dept
 ## Graded Cell
 
 This cell is worth 30% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment.</i><br>
-Your plot should look like this: <br><img src="readPandas1.png" width=400 height=400  align="left"/>
+Your plot should look like this:
 
 
 ```python
