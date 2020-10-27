@@ -33,7 +33,7 @@ Using the ```plt.plot``` function, plot the data in ```y1``` against the data in
 ## Graded Cell
 
 This cell is worth 40% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this:<br> <img src="matplotlibstep1.png" width=400 height=400 align="left"/>
+Your plot should look like this:
 
 
 ```python
@@ -106,7 +106,7 @@ Matplotlib allows for customization of other aspects of plotting.  If you wanted
 ## Graded Cell
 
 This cell is worth 30% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="matplotlibstep4.png" width=400 height=400  align="left"/>
+Your plot should look like this: 
 
 
 ```python
@@ -171,7 +171,7 @@ Histograms are another common form of data representation, intended to represent
 ## Graded Cell
 
 This cell is worth 30% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="matplotlibstep6.png" width=400 height=400  align="left"/>
+Your plot should look like this: 
 
 
 ```python
