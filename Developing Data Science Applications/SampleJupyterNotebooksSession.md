@@ -68,7 +68,7 @@ plt.ylabel("number of grains on square")
 ## Graded Cell
 
 This cell is worth 20% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="SessionStep3.png" width=400 height=400 align="left"/>
+Your plot should look like this: 
 
 
 ```python
@@ -217,8 +217,7 @@ except Exception as e:
 ## Graded Cell
 
 This cell is worth 20% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="SessionStep7.png" width=400 height=400 align="left"/>
-
+Your plot should look like this: 
 
 ```python
 plt.plot(ratios)
