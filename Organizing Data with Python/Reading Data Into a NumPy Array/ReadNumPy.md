@@ -11,7 +11,7 @@ Execute the expression in the code cell below and evaluate the results. You will
 
 
 ```python
-ls
+!ls
 ```
 
     data.txt      jn.py	__pycache__	 readNumpy.png
@@ -26,7 +26,7 @@ Enter and execute ```!head data.txt``` in the code cell below.
 
 
 ```python
-head data.txt
+!head data.txt
 ```
 
     52 119
@@ -49,7 +49,7 @@ Enter and execute ```!wc -l data.txt``` in the code cell below, to see how many 
 
 
 ```python
-wc -l data.txt
+!wc -l data.txt
 ```
 
     3569 data.txt
@@ -255,7 +255,7 @@ Use the ```head``` command used in Step 2 to look at the first few lines of ```l
 
 ```python
 data = np.load('logo.npy')
-head logo.npy
+!head logo.npy
 ```
 
     �NUMPY v {'descr': '<i8', 'fortran_order': False, 'shape': (3569, 2), }                                                       
@@ -278,7 +278,7 @@ Evaluate the code cell below.
 
 
 ```python
-ls -l
+!ls -l
 ```
 
     total 476
