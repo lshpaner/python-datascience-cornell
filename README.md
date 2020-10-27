@@ -1,1 +1,2 @@
-# python-datascience-cornell
+# Python for Datascience at Cornell University
+
