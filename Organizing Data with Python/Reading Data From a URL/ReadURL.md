@@ -40,7 +40,9 @@ The website "fivethirtyeight.com" serves a variety of different political pollin
 
 In the code cell below, write and evaluate an expression that uses ```pd.read_csv``` that reads the latest polling data, and stores the result in the variable ```poll_data```.  Examine the contents of the dataframe.
 
-<b>Note: When reading csv files using ```pd.read_csv``` , you might occasionally see some warning messages, even if the dataframe is created correctly. These warning messages will be similar to the following: <img src="csverror.png" width=650 height=650>There are ways to suppress different types of warning messages if you want to.</b> 
+<b>Note: When reading csv files using ```pd.read_csv``` , you might occasionally see some warning messages, even if the dataframe is created correctly. These warning messages will be similar to the following: 
+
+![png](csverror.png)
 
 ## Graded Cell
 
