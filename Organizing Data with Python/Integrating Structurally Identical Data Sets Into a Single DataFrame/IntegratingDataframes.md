@@ -652,7 +652,7 @@ Let's first plot the data, which is something we also did in the video.  In the 
 ## Graded Cell
 
 This cell is worth 25% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="IntegratingDSStep10.png" width=400 height=400  align="left"/>
+Your plot should look like this: 
 
 
 ```python
@@ -701,7 +701,7 @@ In the code cell below, write an expression to compute and plot the mean sales i
 ## Graded Cell
 
 This cell is worth 25% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="IntegratingDSStep11.png" width=400 height=400  align="left"/>
+Your plot should look like this: 
 
 
 ```python
