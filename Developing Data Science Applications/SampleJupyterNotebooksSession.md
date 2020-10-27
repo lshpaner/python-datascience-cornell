@@ -47,7 +47,7 @@ total_wheat = sum(wheat)
 This cell is worth 20% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
 Your plot should look like this: 
 <br>
-<img src="SessionStep2.png" width=400 height=400 align="left"/> 
+
 
 
 
