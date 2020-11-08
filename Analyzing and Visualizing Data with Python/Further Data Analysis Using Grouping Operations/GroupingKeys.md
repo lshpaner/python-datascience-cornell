@@ -299,7 +299,7 @@ except Exception as e:
 
 Examine the contents of ```Dystopia```, and compare it with the Dystopia column in Table 19 of WHR Appendix 1, included below.  You should detect some slight discrepancies, for example in the LogGDP, Support, and Freedom entries.  This suggests that the WHR authors might have done some additional data cleaning that we have not performed here, and which is not immediately obvious from their textual description of the data pipeline:
 
-<img src="groupingKeysAppendix.png" width=50% height=50% align="center"/>
+<img src="groupingKeysAppendix.png" width=65% height=65% align="center"/>
 
 ### Concluding thoughts
 
