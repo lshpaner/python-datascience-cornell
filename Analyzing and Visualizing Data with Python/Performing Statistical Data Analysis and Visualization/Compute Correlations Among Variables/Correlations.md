@@ -204,7 +204,7 @@ It is possible that your heatmap might get clipped off at the top and the bottom
 ## Graded Cell
 
 This cell is worth 40% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="corrStep2.png" width=600 height=600  align="left"/>
+Your plot should look like this: <br><img src="corrStep2.png" width=600 height=600  align="center"/>
 
 
 ```python
@@ -241,7 +241,7 @@ Use the ```regplot``` function in Seaborn to perform a plot of 'Happiness' (on t
 ## Graded Cell
 
 This cell is worth 30% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="corrStep3.png" width=400 height=400  align="left"/>
+Your plot should look like this: <br><img src="corrStep3.png" width=400 height=400  align="center"/>
 
 
 ```python
