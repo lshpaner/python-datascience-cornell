@@ -1,3 +1,6 @@
+---
+Math: yes
+---
 
 ## Analyzing the World Happiness Data
 
@@ -445,7 +448,7 @@ In the code cell below:
 * Extract the relevant plotting axes with the following expression: ```ax = fig.axes[0]```
 * Call the method ```ax.scatter``` with two arguments to plot Happiness versus LogGDP (recall that LogGDP is now a particular column in the variable ```x``` that you have created: `x['LogGDP']`)
 * Your plot should look like this:<br> 
-<img src="step7Plot.png" height="300" width="300" align="left"/>
+<img src="step7Plot.png" height="300" width="300" align="center"/>
 
 
 ```python
