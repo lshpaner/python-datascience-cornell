@@ -219,7 +219,7 @@ df.describe()
 
 Let's look at the output above and compare it with data presented in Table 4 of [Appendix 1 of the 2018 World Happiness Report](https://s3.amazonaws.com/happiness-report/2018/Appendix1ofChapter2.pdf).  Here is Table 4 reproduced from that report:
 
-<img src='appendix4.png' width=35% height=10% align="center"/>
+<img src='appendix4.png' width=650px height=650px align="left"/>
 
 Imagine that you were asked to produce a table of this form from the underlying data.  Let's see what is required to get our summary data to resemble Table 4.
 
