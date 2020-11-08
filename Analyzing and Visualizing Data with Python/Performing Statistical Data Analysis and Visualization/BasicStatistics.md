@@ -221,6 +221,8 @@ Let's look at the output above and compare it with data presented in Table 4 of 
 
 <img src='appendix4.png' width=650px height=650px align="center"/>
 
+<br>
+
 Imagine that you were asked to produce a table of this form from the underlying data.  Let's see what is required to get our summary data to resemble Table 4.
 
 ### Step 3.
