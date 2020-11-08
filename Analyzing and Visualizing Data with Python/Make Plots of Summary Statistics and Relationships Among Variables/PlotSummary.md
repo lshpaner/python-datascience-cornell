@@ -100,12 +100,12 @@ In the code cell below:
 * Define a variable called ```plot_vars``` that contains Happiness and each of the explanatory variables.  (Hint: recall that you can concatenate Python lists using the addition (```+```) operator.)
 * Using ```sns.pairplot```, make a pairwise scatterplot for the WHR dataframe over the variables of interest, namely the ```plot_vars```.  To add additional information, set the ```hue``` option to reflect the year of each data point, so that trends over time might become apparent.  It will also be useful to include the options ```dropna=True``` and ```palette='Blues'```.
 
-<b>In doing plots like this, you might occasionally see some warning messages, even if the plot is generated correctly. These warning messages will be similar to the following</b>: <img src="plotWarning.png" width=600 height=600> This is often due to minor incompatibilities among the different layers of the ecosystem.  Here we are using seaborn to make a pairplot, which uses matplotlib under the covers to do the plotting.  Matplotlib, in turn, relies  on numpy and other packages to do some of the number-crunching needed to produce the figures.  While this generally works rather smoothly, sometimes inconsistencies appear, e.g., if some default behavior is changed in one of the packages.  There are ways to suppress different types of warning messages if you want to. 
+<b>In doing plots like this, you might occasionally see some warning messages, even if the plot is generated correctly. These warning messages will be similar to the following</b>: <img src="plotWarning.png" width=100% height=100%> This is often due to minor incompatibilities among the different layers of the ecosystem.  Here we are using seaborn to make a pairplot, which uses matplotlib under the covers to do the plotting.  Matplotlib, in turn, relies  on numpy and other packages to do some of the number-crunching needed to produce the figures.  While this generally works rather smoothly, sometimes inconsistencies appear, e.g., if some default behavior is changed in one of the packages.  There are ways to suppress different types of warning messages if you want to. 
 
 ## Graded Cell
 
 This cell is worth 100% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this (please note: it may take a few moments for your plot to appear): <br><img src="plotWarning.png" width=600 height=600  align="left"/>
+Your plot should look like this (please note: it may take a few moments for your plot to appear): <br><img src="plot.png" width=600 height=600  align="left"/>
 
 
 ```python
