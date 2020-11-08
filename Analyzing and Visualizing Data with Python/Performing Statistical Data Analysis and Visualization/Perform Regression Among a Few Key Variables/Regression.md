@@ -1,7 +1,3 @@
----
-Math: yes
----
-
 ## Analyzing the World Happiness Data
 
 ### Computing linear regressions among variables
