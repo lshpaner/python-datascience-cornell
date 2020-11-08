@@ -224,7 +224,7 @@ In the code cell below, enter and evaluate code to plot the min, mean, and max v
 ## Graded Cell
 
 This cell is worth 50% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this (although the colors may be different depending on the order in which you plot each curve): <br><img src="GroupingKeysStep4.png" width=400 height=400  align="center"/>
+Your plot should look like this (although the colors may be different depending on the order in which you plot each curve): <br><img src="GroupingKeysStep4.png" width=400 height=400  align="left"/>
 
 
 ```python
@@ -299,7 +299,7 @@ except Exception as e:
 
 Examine the contents of ```Dystopia```, and compare it with the Dystopia column in Table 19 of WHR Appendix 1, included below.  You should detect some slight discrepancies, for example in the LogGDP, Support, and Freedom entries.  This suggests that the WHR authors might have done some additional data cleaning that we have not performed here, and which is not immediately obvious from their textual description of the data pipeline:
 
-<img src="groupingKeysAppendix.png" width=65% height=65% align="center"/>
+<img src="groupingKeysAppendix.png" width=65% height=65% />
 
 ### Concluding thoughts
 
