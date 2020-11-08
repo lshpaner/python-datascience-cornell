@@ -105,7 +105,7 @@ In the code cell below:
 ## Graded Cell
 
 This cell is worth 100% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this (please note: it may take a few moments for your plot to appear): <br><img src="plot.png" width=600 height=600  align="left"/>
+Your plot should look like this (please note: it may take a few moments for your plot to appear): <br><img src="plotWarning.png" width=600 height=600  align="left"/>
 
 
 ```python
