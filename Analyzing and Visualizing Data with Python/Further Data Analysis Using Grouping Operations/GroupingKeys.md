@@ -224,7 +224,7 @@ In the code cell below, enter and evaluate code to plot the min, mean, and max v
 ## Graded Cell
 
 This cell is worth 50% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this (although the colors may be different depending on the order in which you plot each curve): <br><img src="GroupingKeysStep4.png" width=400 height=400  align="left"/>
+Your plot should look like this (although the colors may be different depending on the order in which you plot each curve): <br><img src="GroupingKeysStep4.png" width=400 height=400  align="center"/>
 
 
 ```python
