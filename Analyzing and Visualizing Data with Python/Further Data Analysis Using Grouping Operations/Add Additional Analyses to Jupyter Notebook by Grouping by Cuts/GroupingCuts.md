@@ -340,7 +340,7 @@ LogGDP_bins.plot(rot=90)
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x7f4e06c0ee48>
+    <matplotlib.axes._subplots.AxesSubplot at 0x7f7e665cc0f0>
 
 
 
@@ -360,7 +360,7 @@ This cell is worth 50% of the grade for this assignment.
 
 
 ```python
-LogGDP_quartiles = df.groupby(pd.qcut(df.LogGDP, bins=10)).size()
+LogGDP_quartiles = df.groupby(pd.qcut(df.LogGDP, q=4)).size()
 ```
 
 ## Self-Check
@@ -378,3 +378,6 @@ except Exception as e:
     print("Error!\n" + str(e))
 
 ```
+
+    Correct!
+
