@@ -77,9 +77,6 @@ Take a peek at the head of the new dataframe.
 df.head()
 ```
 
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
