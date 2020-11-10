@@ -180,19 +180,7 @@ world.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -278,7 +266,6 @@ Study the code in the cell below, and then execute the cell.  Pay attention to s
 
 
 
-
 ```python
 world_with_data = world.merge(df, left_on='name', right_on='country', how='outer')
 world_with_data.head()
@@ -286,21 +273,8 @@ world_with_data.head()
 
 
 
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
