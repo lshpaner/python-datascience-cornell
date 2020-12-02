@@ -688,7 +688,7 @@ Execute the code you have written.  You should see it run through the loop 20 ti
 ## Graded Cell
 
 This cell is worth 20% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your output should look like something similar to this (numerical values may not be in the same order due to random data splits): <br><img src="classificationStep9.png" width=400 height=400  align="left"/>
+Your output should look like something similar to this (numerical values may not be in the same order due to random data splits): <br><img src="classificationStep9.png" width=400 height=400  align="center"/>
 
 
 
@@ -749,7 +749,7 @@ In the code cell below, copy and paste the code you wrote above and modify it to
 ## Graded Cell
 
 This cell is worth 20% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment</i><br>
-Your plot should look like this: <br><img src="classificationStep10.png" width=400 height=400  align="left"/>
+Your plot should look like this: <br><img src="classificationStep10.png" width=400 height=400  align="center"/>
 
 
 
