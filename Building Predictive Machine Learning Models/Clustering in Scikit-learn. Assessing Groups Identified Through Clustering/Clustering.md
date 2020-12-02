@@ -845,7 +845,7 @@ In the code cell below, write an expression to group the data in ```df2_clustere
 ## Graded Cell
 
 This cell is worth 40% of the grade for this assignment. <i>Note: a self-check will not accompany this assignment.</i><br>
-Your output should look similar to this (your results may be different): <br><img src="clusteringStep9.png" width=400 height=400  align="center"/>
+Your output should look similar to this (your results may be different): <br><img src="clusteringStep9.png" width=300 height=400  align="center"/>
 
 
 ```python
